@@ -41,3 +41,7 @@ Queremos que este sea un espacio de aprendizaje amable, seguro y libre de acoso.
 
 ### Sesión 4 y +
 ¡Próximamente!
+
+## Patrocinador
+
+Esta actividad cuenta con el apoyo de [DataUC](https://datascience.uc.cl/), que nos facilita la licencia para la cuenta de Zoom que utilizamos en nuestras actividades.
