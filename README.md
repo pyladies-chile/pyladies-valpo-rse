@@ -1,10 +1,12 @@
 # Club de lectura "Research Software Engineering with Python" 
 
-Materiales del club de lectura del libro ["Research Software Engineering with Python: Building software that makes research possible"](https://merely-useful.tech/py-rse/) de Damien Irving, Kate Hertweck, Luke Johnston, Joel Ostblom, Charlotte Wickham y Greg Wilson. Este libro de acceso abierto enseña buenas prácticas para el desarrollo de software para investigación, teniendo en consideración principios de ciencia abierta, investigación reproducible y software sostenible.
+En este repositorio alojaremos los materiales del club de lectura del libro ["Research Software Engineering with Python: Building software that makes research possible"](https://merely-useful.tech/py-rse/) de Damien Irving, Kate Hertweck, Luke Johnston, Joel Ostblom, Charlotte Wickham y Greg Wilson. 
 
-¡Empezamos en marzo!
+## Sobre el libro
 
-![](https://github.com/pyladies-chile/pyladies-valpo-rse/blob/main/pyladies-valpo-rse.png)
+Este libro de acceso abierto enseña buenas prácticas para el desarrollo de software para investigación, teniendo en consideración principios de ciencia abierta, investigación reproducible y software sostenible.
+
+![](img/imagen-difusion-general.png)
 
 ## ¿Cómo funciona el club de lectura?
 
