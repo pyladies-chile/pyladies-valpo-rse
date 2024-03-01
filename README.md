@@ -30,7 +30,7 @@ Queremos que este sea un espacio de aprendizaje amable, seguro y libre de acoso.
 
 #### Materiales
 
-- Datos: <https://doi.org/10.6084/m9.figshare.13040516>. Hay que descargar la carpeta comprimida, descomprimirla y llamarla `data`. Esa carpeta la guardaremos dentro del directorio raíz de nuestro proyecto, que se llamará `zipf`. Es decir, luego de debería quedar la siguiente estructura en tu computador:
+- Datos: <https://doi.org/10.6084/m9.figshare.13040516>. Hay que descargar la carpeta comprimida, descomprimirla y llamarla `data`. Esa carpeta la guardaremos dentro del directorio raíz de nuestro proyecto, que se llamará `zipf`. Es decir, debería quedar la siguiente estructura en tu computador:
 ```
 zipf/
   ├── data
