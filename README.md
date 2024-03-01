@@ -28,6 +28,18 @@ Queremos que este sea un espacio de aprendizaje amable, seguro y libre de acoso.
 - **Fecha:** Viernes 1 de marzo de 2024 a las 17:00 UTC-3 ([chequea tu zona horaria](https://everytimezone.com/s/416432ce))
 - **Inscripción:** [A través de Eventbrite](https://www.eventbrite.com/e/club-de-lectura-research-software-engineering-with-python-sesion-1-tickets-799048825547)
 
+#### Materiales
+
+- Datos: <https://doi.org/10.6084/m9.figshare.13040516>. Hay que descargar la carpeta comprimida, descomprimirla y llamarla `data`. Esa carpeta la guardaremos dentro del directorio raíz de nuestro proyecto, que se llamará `zipf`. Es decir, luego de debería quedar la siguiente estructura en tu computador:
+```
+zipf/
+├── data
+    ├── dracula.txt
+    ├── frankenstein.txt
+    ├── jane_eyre.txt
+    └── ...
+```
+
 ### Sesión 2
 
 - **Lectura:** capítulo 3 (["Building Tools with the Unix Shell"](https://merely-useful.tech/py-rse/bash-tools.html)) y el capítulo 4 (["Going Further with the Unix Shell"](https://merely-useful.tech/py-rse/bash-advanced.html)).
