@@ -33,11 +33,11 @@ Queremos que este sea un espacio de aprendizaje amable, seguro y libre de acoso.
 - Datos: <https://doi.org/10.6084/m9.figshare.13040516>. Hay que descargar la carpeta comprimida, descomprimirla y llamarla `data`. Esa carpeta la guardaremos dentro del directorio raíz de nuestro proyecto, que se llamará `zipf`. Es decir, luego de debería quedar la siguiente estructura en tu computador:
 ```
 zipf/
-├── data
-    ├── dracula.txt
-    ├── frankenstein.txt
-    ├── jane_eyre.txt
-    └── ...
+  ├── data
+      ├── dracula.txt
+      ├── frankenstein.txt
+      ├── jane_eyre.txt
+      └── ...
 ```
 
 ### Sesión 2
