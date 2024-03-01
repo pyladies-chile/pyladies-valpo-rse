@@ -34,7 +34,7 @@ Para la sesión es necesario que tengas instalado Bash en tu computador. Si usas
 
 #### Materiales
 
-- Datos: <https://doi.org/10.6084/m9.figshare.13040516>. Hay que descargar la carpeta comprimida, descomprimirla y llamarla `data`. Esa carpeta la guardaremos dentro del directorio raíz de nuestro proyecto, que se llamará `zipf`. Es decir, debería quedar la siguiente estructura en tu computador:
+- Los datos están disponibles en Figshare: <https://doi.org/10.6084/m9.figshare.13040516>. Hay que descargar la carpeta comprimida, descomprimirla y llamarla `data`. Esa carpeta la guardaremos dentro del directorio raíz de nuestro proyecto, que se llamará `zipf`. Es decir, debería quedar la siguiente estructura en tu computador:
 ```
 zipf/
   ├── data
@@ -43,6 +43,8 @@ zipf/
       ├── jane_eyre.txt
       └── ...
 ```
+
+- 📺 [Grabación de la sesión](https://www.dropbox.com/scl/fi/77rq0mdr4as4d7zaxbcas/pyladies-valpo-rse_sesion-1.mp4?rlkey=rayzzbsqcy8am5mblen0re3k5&dl=0) (la contraseña es `rse`).
 
 ### Sesión 2
 
