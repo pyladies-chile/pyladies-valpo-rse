@@ -28,6 +28,10 @@ Queremos que este sea un espacio de aprendizaje amable, seguro y libre de acoso.
 - **Fecha:** Viernes 1 de marzo de 2024 a las 17:00 UTC-3 ([chequea tu zona horaria](https://everytimezone.com/s/416432ce))
 - **Inscripción:** [A través de Eventbrite](https://www.eventbrite.com/e/club-de-lectura-research-software-engineering-with-python-sesion-1-tickets-799048825547)
 
+#### Preparación
+
+Para la sesión es necesario que tengas instalado Bash en tu computador. Si usas Linux o Mac, viene por defecto, así que no tienes que hacer nada. Si usas Windows, puedes instalarlo a través de Git Bash (y así te queda instalado Git, que lo veremos más adelante): https://gitforwindows.org/. Aquí hay un video con indicaciones sobre cómo hacerlo: https://www.youtube.com/watch?v=HGg4a9bFNIk.
+
 #### Materiales
 
 - Datos: <https://doi.org/10.6084/m9.figshare.13040516>. Hay que descargar la carpeta comprimida, descomprimirla y llamarla `data`. Esa carpeta la guardaremos dentro del directorio raíz de nuestro proyecto, que se llamará `zipf`. Es decir, debería quedar la siguiente estructura en tu computador:
