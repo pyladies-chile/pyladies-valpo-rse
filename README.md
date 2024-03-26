@@ -50,8 +50,9 @@ zipf/
 
 - **Lectura:** capítulo 3 (["Building Tools with the Unix Shell"](https://merely-useful.tech/py-rse/bash-tools.html)) y el capítulo 4 (["Going Further with the Unix Shell"](https://merely-useful.tech/py-rse/bash-advanced.html)).
 - **Encargada de la sesión:** [Stephanie Orellana](https://sporella.xyz/)
-- **Fecha:** Viernes 12 de abril de 2024 a las 17:00 UTC-4
-
+- **Fecha:** Viernes 12 de abril de 2024 a las 17:00 UTC-4 ([chequea tu zona horaria](https://everytimezone.com/s/eb776b3b))
+- **Inscripción:** [A través de Welcu](https://welcu.com/pyladies-valparaiso/club-de-lectura-rse-python-sesion-2)
+- 
 ### Sesión 3
 
 - **Lectura:** capítulo 5 (["Building Command-Line Tools with Python"](https://merely-useful.tech/py-rse/scripting.html))
