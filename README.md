@@ -50,7 +50,7 @@ zipf/
 
 - **Lectura:** capítulo 3 (["Building Tools with the Unix Shell"](https://merely-useful.tech/py-rse/bash-tools.html)) y el capítulo 4 (["Going Further with the Unix Shell"](https://merely-useful.tech/py-rse/bash-advanced.html)).
 - **Encargada de la sesión:** [Stephanie Orellana](https://sporella.xyz/)
-- **Fecha:** Por definir
+- **Fecha:** Viernes 12 de abril de 2024 a las 17:00 UTC-4
 
 ### Sesión 3
 
