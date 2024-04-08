@@ -1,6 +1,6 @@
 # Club de lectura "Research Software Engineering with Python" 
 
-En este repositorio alojaremos los materiales del club de lectura del libro ["Research Software Engineering with Python: Building software that makes research possible"](https://merely-useful.tech/py-rse/) de Damien Irving, Kate Hertweck, Luke Johnston, Joel Ostblom, Charlotte Wickham y Greg Wilson. 
+En este repositorio alojaremos los materiales del club de lectura del libro ["Research Software Engineering with Python: Building software that makes research possible"](https://third-bit.com/py-rse/) de Damien Irving, Kate Hertweck, Luke Johnston, Joel Ostblom, Charlotte Wickham y Greg Wilson. 
 
 ### Sobre el libro
 
@@ -47,7 +47,7 @@ zipf/
 
 ## Sesión 2
 
-- **Lectura:** capítulo 3 (["Building Tools with the Unix Shell"](https://merely-useful.tech/py-rse/bash-tools.html)) y el capítulo 4 (["Going Further with the Unix Shell"](https://merely-useful.tech/py-rse/bash-advanced.html)).
+- **Lectura:** capítulo 3 (["Building Tools with the Unix Shell"](https://third-bit.com/py-rse/bash-tools.html)) y el capítulo 4 (["Going Further with the Unix Shell"](https://third-bit.com/py-rse/bash-advanced.html)).
 - **Encargada de la sesión:** [Stephanie Orellana](https://sporella.xyz/)
 - **Fecha:** Viernes 12 de abril de 2024 a las 17:00 UTC-4 ([chequea tu zona horaria](https://everytimezone.com/s/eb776b3b))
 - **Inscripción:** [A través de Welcu](https://welcu.com/pyladies-valparaiso/club-de-lectura-rse-python-sesion-2)
