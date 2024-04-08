@@ -22,7 +22,7 @@ Queremos que este sea un espacio de aprendizaje amable, seguro y libre de acoso.
 
 
 ## Sesión 1
-- **Lectura:** capítulo 1 (["Getting Started"](https://merely-useful.tech/py-rse/getting-started.html)) y el capítulo 2 (["The Basics of the Unix Shell"](https://merely-useful.tech/py-rse/bash-basics.html))
+- **Lectura:** capítulo 1 (["Getting Started"](https://third-bit.com/py-rse/py-rse/getting-started.html)) y el capítulo 2 (["The Basics of the Unix Shell"](https://third-bit.com/py-rse/py-rse/bash-basics.html))
 - **Encargada de la sesión:** [Riva Quiroga](https://rivaquiroga.cl/)
 - **Fecha:** Viernes 1 de marzo de 2024 a las 17:00 UTC-3 ([chequea tu zona horaria](https://everytimezone.com/s/416432ce))
 - **Inscripción:** [A través de Eventbrite](https://www.eventbrite.com/e/club-de-lectura-research-software-engineering-with-python-sesion-1-tickets-799048825547)
@@ -54,7 +54,7 @@ zipf/
   
 ## Sesión 3
 
-- **Lectura:** capítulo 5 (["Building Command-Line Tools with Python"](https://merely-useful.tech/py-rse/scripting.html))
+- **Lectura:** capítulo 5 (["Building Command-Line Tools with Python"](https://third-bit.com/py-rse/py-rse/scripting.html))
 - **Encargada de la sesión:** [María de los Ángeles Plaza de los Reyes](https://www.linkedin.com/in/mplazadelosreyes/)
 - **Fecha:** Por definir
 
